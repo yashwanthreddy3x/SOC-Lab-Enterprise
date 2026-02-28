@@ -1,0 +1,61 @@
+"_time","alert_id","agent_name","rule_id","rule_description","rule_level","mitre_technique"
+"2026-02-27T21:17:38.000+0530","SOC-1511",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:17:37.959+0530","SOC-4584",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:35.845+0530","SOC-5732",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:34.884+0530","SOC-7705",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:27.850+0530","SOC-8615",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:17:26.534+0530","SOC-1086",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:25.758+0530","SOC-9358",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:25.415+0530","SOC-4479",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:21.748+0530","SOC-8775",ubuntu12,5551,"PAM: Multiple failed logins in a small period of time.",10,Other
+"2026-02-27T21:17:20.486+0530","SOC-5159",ubuntu12,5763,"sshd: brute force trying to get access to the system. Authentication failed.",10,T1110
+"2026-02-27T21:17:19.726+0530","SOC-8793",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:17:19.388+0530","SOC-7343",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:13.901+0530","SOC-3623",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:12.876+0530","SOC-7034",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:05.733+0530","SOC-8218",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:17:04.876+0530","SOC-4759",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:17:00.458+0530","SOC-4704",ubuntu12,5551,"PAM: Multiple failed logins in a small period of time.",10,Other
+"2026-02-27T21:16:58.459+0530","SOC-9907",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:58.354+0530","SOC-8212",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:57.997+0530","SOC-7698",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:57.360+0530","SOC-1031",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:16:57.260+0530","SOC-6529",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:44.543+0530","SOC-2504",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:44.384+0530","SOC-8819",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:40.516+0530","SOC-3456",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:16:40.374+0530","SOC-5737",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:36.561+0530","SOC-8044",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:36.537+0530","SOC-4682",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:36.363+0530","SOC-3769",ubuntu12,5551,"PAM: Multiple failed logins in a small period of time.",10,Other
+"2026-02-27T21:16:36.341+0530","SOC-3894",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:16:36.324+0530","SOC-2522",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:20.728+0530","SOC-9627",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:20.714+0530","SOC-2577",ubuntu12,5763,"sshd: brute force trying to get access to the system. Authentication failed.",10,T1110
+"2026-02-27T21:16:20.708+0530","SOC-1245",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:20.410+0530","SOC-1958",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:16:20.380+0530","SOC-9294",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:20.354+0530","SOC-9206",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:08.531+0530","SOC-2880",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:08.473+0530","SOC-3911",ubuntu12,5551,"PAM: Multiple failed logins in a small period of time.",10,Other
+"2026-02-27T21:16:08.412+0530","SOC-9394",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:16:08.190+0530","SOC-5134",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:16:08.151+0530","SOC-8844",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:54.204+0530","SOC-6592",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:54.051+0530","SOC-6139",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:50.213+0530","SOC-9902",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:15:50.083+0530","SOC-8593",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:44.078+0530","SOC-3334",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:44.058+0530","SOC-4877",ubuntu12,5551,"PAM: Multiple failed logins in a small period of time.",10,Other
+"2026-02-27T21:15:44.020+0530","SOC-3481",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:43.938+0530","SOC-8499",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:15:43.838+0530","SOC-1061",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:22.232+0530","SOC-7975",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:22.143+0530","SOC-8485",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:21.860+0530","SOC-9489",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:21.785+0530","SOC-2107",ubuntu12,40111,"Multiple authentication failures.",10,T1110
+"2026-02-27T21:15:21.651+0530","SOC-5607",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:19.664+0530","SOC-2504",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:19.636+0530","SOC-4378",ubuntu12,5763,"sshd: brute force trying to get access to the system. Authentication failed.",10,T1110
+"2026-02-27T21:15:19.623+0530","SOC-3404",ubuntu12,2502,"syslog: User missed the password more than one time",10,Other
+"2026-02-27T21:15:17.616+0530","SOC-9435",ubuntu12,5551,"PAM: Multiple failed logins in a small period of time.",10,Other

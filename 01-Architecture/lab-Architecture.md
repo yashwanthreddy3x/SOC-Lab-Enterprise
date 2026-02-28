@@ -16,9 +16,11 @@ Shuffle SOAR (shuffler.io)   ← Automation
   (IOC Enrichment)   (Auto-created)
 ```
 
-## Components
-- **Kali Linux** — Adversary simulation (Hydra, nmap)
-- **Ubuntu 22.04** — Endpoint with Wazuh agent
-- **Wazuh v4.14** — XDR detection and log forwarding
-- **Splunk Enterprise** — SIEM correlation and alerting
-- **Shuffle SOAR** — Automated incident response
+## Tools & Versions
+- Kali Linux — Hydra, nmap, wordlists
+- Ubuntu 22.04 — Wazuh Agent v4.14
+- Wazuh OVA v4.14 — Manager + Indexer + Dashboard
+- Splunk Enterprise 10.0
+- Shuffle SOAR — Cloud
+- VirusTotal API v3
+- Jira Service Management (Atlassian)
